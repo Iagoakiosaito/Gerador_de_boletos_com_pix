@@ -12,8 +12,7 @@
     "adianti/pdfdesigner": "dev-master",
     "pablodalloglio/ole": "dev-master",
     "pablodalloglio/spreadsheet_excel_writer": "dev-master",
-    "pablodalloglio/fpdf": "dev-master",
-    "gumlet/php-image-resize": "2.0.*"
+    "pablodalloglio/fpdf": "dev-master"
   },
   "config": {
     "preferred-install": {
